@@ -9,13 +9,14 @@ MakeFile e Readme.md.
 
 As funções desenvolvidas estão separadas e cada arquivo sendo uma de 
 soma, uma subtração e a ultima multiplicação. O arquivo que junta elas é
-o main.c, dessa maneira para executar o projeto é necessário rodar no terminal,
+o main.c, foi gerado a partir do arquivo makefile, um executável o math_program,
+dessa maneira para executar o projeto é necessário rodar no terminal,
 dentro da pasta que está o arquivo:
 
-./main.c 
+./math_program
 
-Além disso, foi disponibilizado o makefile, então a maneira correta de rodar o 
-programa seria:
+Além disso, foi disponibilizado o makefile, então se for necessário mudar o programa
+e atualizar o executável:
 
 ./make
-./main.c
+./math_program
