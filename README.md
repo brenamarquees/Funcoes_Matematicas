@@ -18,5 +18,6 @@ dentro da pasta que está o arquivo:
 Além disso, foi disponibilizado o makefile, então se for necessário mudar o programa
 e atualizar o executável:
 
-./make
+make 
+
 ./math_program
