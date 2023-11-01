@@ -1,4 +1,4 @@
-# Trabalho_1
+# Trabalho_1 (Funções Matemáticas)
 Trabalho para a disciplina de Desenvolvimento de Software Livre, 
 o intuito desse primeiro trabalho é permitir que o aluno tenha
 mais contato com o GitHub e que nesse programa desenvolva três funções
